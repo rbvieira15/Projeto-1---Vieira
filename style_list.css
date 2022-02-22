@@ -1,0 +1,135 @@
+h1{
+    font-family: verdana;
+        color: black;
+    border: 1px
+}
+h2{
+    font-family: sans-serif;
+    color: black;
+    border: 1px;
+    }
+p{
+    font-family: arial;
+    color: black;
+    border: 1px;
+    }
+a{
+    list-style-type: none;
+}
+
+a{
+   text-decoration: none;
+}
+.topo-menu{
+    background: black;
+    display: inline-block;
+    width: 90%;
+    border-radius: 10px;
+    text-transform: uppercase;
+}
+ul li{
+    list-style: none;
+    display: inline;
+    position: relative;
+    padding: 10px;
+}
+
+.topo-menu a {
+    color: white;
+    font-style: initial;
+    font-family: fantasy;
+    font-size: 30px;
+    
+}
+
+.imagelogo {
+float:left; margin-right:0; margin-left:10px; margin-bottom:5px;
+}
+.image_displayed{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+}
+footer{
+    float:left; margin-right:10px; margin-left:0px; margin-bottom:5px;
+background: black;
+    display: inline-block;
+    padding: 1px;
+    width: 100%;
+    border-radius: 10px;
+}
+.texto_rodape p{
+   height: 1em;
+  display: flex;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+  align-items: center;
+  justify-content: center; 
+   }
+.rodape a{
+    color: white;
+    font-style: initial;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+.back-to-top {
+  background-color: black;
+  border-radius: 65px;
+  bottom: 14px;
+  color: #d9a000;
+  cursor: pointer;
+  height: 40px;
+  position: fixed;
+  right: 22px;
+  width: 40px;
+  z-index: 3;
+content: '▲';
+    display: flex;
+    justify-content: center;
+    padding-left: 1px;
+    padding-top: 10px;
+  }
+.imagefooter {
+float:right; margin-right:0; margin-left:10px; margin-bottom:5px;
+}
+.rodape ul li { 
+    padding: 2px 10px;
+	display: block;
+    cursor: pointer;
+    }
+
+.login{
+   	 width: 60%;
+  margin-left: auto;
+  padding: 20px;    
+  border: 5px solid #b2b2b2;
+    background-color: white;
+ 
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+ 
+  -webkit-box-shadow: 0px 1px 4px 0px rgba(168, 168, 168, 0.6) inset;
+  box-shadow: 0px 1px 4px 0px rgba(168, 168, 168, 0.6) inset;
+ 
+  -webkit-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+}
+input[type="submit"]{
+  width: 100%!important;
+  cursor: pointer;  
+  background: black;
+  padding: 8px 5px;
+  color: #fff;
+  font-size: 20px;  
+  border: 1px solid #fff;   
+  margin-bottom: 10px;  
+  text-shadow: 0 1px 1px #333;
+ 
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+ 
+  transition: all 0.2s linear;
+}		
+
