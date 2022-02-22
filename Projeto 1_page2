@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset = "UTF - 8"/>
+        <title> Projeto - The test </title>
+        <link rel = "stylesheet" href = "style_list.css" />
+        <link rel = "stylesheet" href = "960-Grid-System-master/code/css/960.css">
+    </head>
+    
+    <body>
+        <nav class="topo-menu">
+             <figure>
+                 <a href="Projeto%201.html" id="Página inicial">
+                     <img class="imagelogo" src="logo.png" alt="logo">
+                     </figure>
+                 <div class="container_12">
+            
+                    <div class="topo-menu">
+                    <ul>
+                        <li><a href="Projeto%201_page%202.html">Menu 1</a></li>
+                        <li><a href="Projeto%201_page%203.html">Menu 2</a></li>
+                        <li><a href="#">Menu 3</a></li>
+                        <li><a href="#">Menu 4</a></li>
+                        <li><a href="#">Menu 5</a></li>
+                    </ul>
+                </div>
+            </nav>
+            <br></br>
+            <article>
+                <input type="button" value="Voltar" onclick="history.go(-1)" /> 
+                <header>
+                    <div class="container_12">
+                    <div class="grid_12">
+                    <img src="imagem3.png" alt="banner">
+                    <h2>1914 translation by H. Rackham</h2>
+                </header>
+            <div class="container_12">
+                <div class="grid_12">
+                <h2>At vero eos et accusamus et iusto</h2>
+                <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided
+                </p>
+                       
+                </div>
+                <div id="back-to-top">
+	               <a href="#" id="back-to-top" /a>
+      </body>
+                    <div id="clear"></div>
+                        <footer>
+                            <img class="imagefooter" src= "logo.png" alt="logo">  
+                        <nav>
+                            <div class="rodape">
+                                <ul>
+                                    <li><a href="#">Rodapé 1</a></li>
+                                    <li><a href="#">Rodapé 2</a></li>
+                                    <li><a href="#">Rodapé 3</a></li>
+                                    <li><a href="#">Rodapé 4</a></li>
+                                    <li><a href="#">Rodapé 5</a></li>
+                                </ul>
+                            </div>
+                        </nav>
+                        <div class="texto_rodape"><p>Todos os direitos reservados. Vieira 2022</p></div> 
+                        </footer>
+</html>
