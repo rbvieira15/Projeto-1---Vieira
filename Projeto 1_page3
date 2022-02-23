@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+    <head>
+    <meta charset = "UTF - 8"/>
+    <title> Projeto - The test </title>
+    <link rel = "stylesheet" href = "style_list.css" />
+        <link rel = "stylesheet" href = "960.css">
+    </head>
+    
+    <body>
+        <nav class="topo-menu">
+                                    <figure>
+                                        <a href="Projeto%201.html" id="Página inicial">
+                            <img class="imagelogo" src="logo.png" alt="logo">
+                </figure>
+                                            <div class="container_12">
+            
+                <div class="topo-menu">
+                <ul>
+                    <li><a href="Projeto%201_page%202.html">Menu 1</a></li>
+                    <li><a href="Projeto%201_page%203.html">Menu 2</a></li>
+                    <li><a href="#">Menu 3</a></li>
+                    <li><a href="#">Menu 4</a></li>
+                    <li><a href="#">Menu 5</a></li>
+                </ul>
+            </div>
+         </nav>
+        <br></br>
+        <article>
+            <input type="button" value="Voltar" onclick="history.go(-1)" /> 
+        <article>
+            <header>
+                <div class="container_12">
+                    <div class="grid_12">
+                        <h2>Lorem Ipsum</h2>
+                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+                        <video width="320" height="240" controls>
+                        <source src="Lake%20-%2085371.mp4" type="video/mp4">
+                        <source src="Lake%20-%2085371.mp4" type="video/ogg">
+                        </video>
+                        <br></br>
+                      </header>
+            <div id="back-to-top">
+	<a href="#" id="back-to-top" /a>
+          </body>
+        
+                <footer>
+            <img class="imagefooter" src= "logo.png" alt="logo">  
+                
+                       <nav>
+               <div class="rodape">
+                    <ul>
+            <li><a href="#">Rodapé 1</a></li>
+            <li><a href="#">Rodapé 2</a></li>
+            <li><a href="#">Rodapé 3</a></li>
+            <li><a href="#">Rodapé 4</a></li>
+            <li><a href="#">Rodapé 5</a></li>
+                    </ul>
+                </div>
+                </nav>
+            <div class="texto_rodape"><p>Todos os direitos reservados. Vieira 2022</p></div> 
+</footer>
+</html>
