@@ -10,15 +10,15 @@
     <body>
         <nav class="topo-menu">
                                     <figure>
-                                        <a href="Projeto%201.html" id="Página inicial">
+                                        <a href="Projeto 1" id="Página inicial">
                             <img class="imagelogo" src="logo.png" alt="logo">
                 </figure>
                                             <div class="container_12">
             
                 <div class="topo-menu">
                 <ul>
-                    <li><a href="Projeto%201_page%202.html">Menu 1</a></li>
-                    <li><a href="Projeto%201_page%203.html">Menu 2</a></li>
+                    <li><a href="Projeto 1_page2">Menu 1</a></li>
+                    <li><a href="Projeto 1_page3">Menu 2</a></li>
                     <li><a href="#">Menu 3</a></li>
                     <li><a href="#">Menu 4</a></li>
                     <li><a href="#">Menu 5</a></li>
