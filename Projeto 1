@@ -17,8 +17,8 @@
             
                 <div class="topo-menu">
                 <ul>
-                    <li><a href="https://github.com/rbvieira15/Projeto-1---Vieira/blob/6a4b2045105b4f5306450307b5353c62cef1931d/Projeto%201_page2">Menu 1</a></li>
-                    <li><a href="Projeto 1_page3">Menu 2</a></li>
+                    <li><a href="https://github.com/rbvieira15/Projeto-1---Vieira/blob/fae411070ee28ca452a05c1b4930ba17ba86bc90/Projeto%201_page2">Menu 1</a></li>
+                    <li><a href="https://github.com/rbvieira15/Projeto-1---Vieira/blob/fae411070ee28ca452a05c1b4930ba17ba86bc90/Projeto%201_page3">Menu 2</a></li>
                     <li><a href="#">Menu 3</a></li>
                     <li><a href="#">Menu 4</a></li>
                     <li><a href="#">Menu 5</a></li>
@@ -55,7 +55,7 @@
           
           <p class="link">
             Ainda não tem conta?
-            <a href="Projeto%201_cadastro.html">Cadastre-se</a>
+            <a href="https://github.com/rbvieira15/Projeto-1---Vieira/blob/fae411070ee28ca452a05c1b4930ba17ba86bc90/Projeto%201_cadastro">Cadastre-se</a>
           </p>
         </form>
       </div>
